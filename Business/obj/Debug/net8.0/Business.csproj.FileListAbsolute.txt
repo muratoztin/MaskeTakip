@@ -1,0 +1,15 @@
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\bin\Debug\net8.0\Business.dll
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\bin\Debug\net8.0\Entities.dll
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\bin\Debug\net8.0\Entities.pdb
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\Business.csproj.CopyComplete
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\Business.dll
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\Murat Öztin\source\repos\5 Saatte C# Project\Business\obj\Debug\net8.0\ref\Business.dll
